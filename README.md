@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Eren Acar
 
-<!--
-**ErenACR17/ErenACR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student  
+💻 Interested in backend development, algorithms and problem solving  
+🚀 Continuously improving myself with projects and practice  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- *Languages:* C++, Python, Java  
+- *Tools:* Git, GitHub, Visual Studio Code  
+- *Concepts:* Object-Oriented Programming, Data Structures, Algorithms  
+
+---
+
+## 📂 Projects
+Some of the projects I have worked on:
+
+- 🔹 *C++ Stack & Expression Evaluation*
+  - Basic data structures and algorithm implementation  
+- 🔹 *Python Practice Projects*
+  - Beginner-level exercises and problem-solving  
+
+(More projects will be added soon 🚧)
+
+---
+
+## 🎯 Goals
+- Improve problem-solving and algorithmic thinking  
+- Build real-world software projects  
+- Gain experience in backend development  
+
+---
+
+## 📫 Contact
+- GitHub: [github.com/ErenACR17](https://github.com/ErenACR17)
+- E-mail: [erenacar1907@icloud.com]
+- Linkedin: [linkedin.com/in/erenacr](http://linkedin.com/in/erenacr)
+
+---
+
+⭐ Feel free to check out my repositories and follow my journey!
