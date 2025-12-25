@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- *Languages:* C++, Python, Java  
+- *Languages:* C++, Python, SQL  
 - *Tools:* Git, GitHub, Visual Studio Code  
 - *Concepts:* Object-Oriented Programming, Data Structures, Algorithms  
 
