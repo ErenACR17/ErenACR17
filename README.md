@@ -34,7 +34,7 @@ Some of the projects I have worked on:
 
 ## 📫 Contact
 - GitHub: [github.com/ErenACR17](https://github.com/ErenACR17)
-- E-mail: [erenacar1907@icloud.com]
+- E-mail: [eren.acr4104@gamil.com]
 - Linkedin: [linkedin.com/in/erenacr](http://linkedin.com/in/erenacr)
 
 ---
